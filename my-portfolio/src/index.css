@@ -1,0 +1,6 @@
+
+html,body{height:100%}
+body{background:linear-gradient(180deg,#f6f8fa,#eef2f6);margin:0;font-family:Inter,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+h2{margin-top:20px;margin-bottom:12px}
+a{color:#0d6efd}
