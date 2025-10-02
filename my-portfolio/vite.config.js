@@ -10,7 +10,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/devportfolio/my-portfolio/"
-  // or base: "/<repo-folder>/" according to your structure
+  base: '/devportfolio/my-portfolio/'  // 👈 very important
 })
+
 
