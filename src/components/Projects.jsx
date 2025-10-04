@@ -5,30 +5,30 @@ const projects = [
   {
     title: "Edverse",
     organization: "Ediiie",
-    desc: "Metaverse educational app with multiplayer classrooms.",
-    skills: "Unity3D, PUN2, Agora",
+    desc: "Edverse is an educational metaverse enabling seamless collaboration between teachers, students, and promoters to host interactive online classrooms and manage learning content.",
+    skills: "Unity3D, Fusion Multiplayer Networking, Agora",
     url: "https://edverse.com"
   },
-  {
-    title: "Cognihab",
-    organization: "Ediiie",
-    desc: "Medical rehabilitation VR application.",
-    skills: "Unity3D, OpenXR, HTC Vive",
-    url: "#"
-  },
+  // {
+  //   title: "Cognihab",
+  //   organization: "Ediiie",
+  //   desc: "Medical rehabilitation VR application.",
+  //   skills: "Unity3D, OpenXR, HTC Vive",
+  //   url: "#"
+  // },
   {
     title: "LeadAR",
     organization: "Ediiie",
-    desc: "Transforming textbooks into interactive AR experiences for K-12 learners",
-    skills: "Unity3D, AR Foundation",
-    url: "#"
+    desc: "LeadAR is an AR-based educational app that helps students and teachers explore and understand Mathematics and Science concepts from classes 1 to 12 through immersive 3D learning experiences.",
+    skills: "Unity3D, AR Foundation, Vuforia",
+   // url: "#"
   },
   {
     title: "Cosmocorp",
     organization: "Ediiie",
     desc: "Developed a fictional space game in Meta Horizon.",
     skills: "Unity3D, AR Foundation",
-    url: "#"
+    //url: "#"
   },
   {
     title: "Microsoft Dynamic Assist",
