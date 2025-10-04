@@ -24,10 +24,10 @@ const projects = [
    // url: "#"
   },
   {
-    title: "Cosmocorp",
+    title: "Cosmocorp - Under development",
     organization: "Ediiie",
     desc: "Developed a fictional space game in Meta Horizon.",
-    skills: "Unity3D, AR Foundation",
+    skills: "Meta Horizon SDK, Type script",
     //url: "#"
   },
   {
